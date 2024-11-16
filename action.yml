@@ -1,0 +1,5 @@
+name: 'Trio Action'
+branding:
+  icon: 'power'
+  color: 'purple'
+description: 'Find and fix software weaknesses and vulnerabilities during development, before you ship or deploy!'
