@@ -1,8 +1,8 @@
 # DEPRECATED: Trio-action
 
-**NOTE:** This plugin has been deprecated and no longer supported. It is recommended that you install or migrate to the
+**This plugin has been deprecated and no longer supported. It is recommended that you install or migrate to the
 newer, supported version, Black Duck Security Scan https://github.com/marketplace/actions/black-duck-security-scan
-
+**
 Synopsys Template allows you to integrate Static Analysis Security Testing (SAST) and Software Composition Analysis (SCA) into your CI/CD pipelines. 
 Synopsys Template leverages Synopsys Bridge, a foundational piece of technology that has built-in knowledge of how to run all major Synopsys security testing solutions, plus common workflows for platforms like GitLab.
 
