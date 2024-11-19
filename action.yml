@@ -2,4 +2,4 @@ name: 'Trio Action Deprecated'
 branding:
   icon: 'power'
   color: 'purple'
-description: 'Find and fix software weaknesses and vulnerabilities during development, before you ship or deploy!'
+description: 'Find and fix software weaknesses and vulnerabilities during development, before you ship or deploy!. Deprecated: Please use Black Duck Security Scan <marketplace placeholder link for new integration'
